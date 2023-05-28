@@ -54,6 +54,7 @@ a {
 .main-section-1 {
     display: flex;
     gap: 10px;
+    flex-wrap:wrap;
     padding: 40px;
     justify-content: space-around;
     background-color: #dae4df54;
